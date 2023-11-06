@@ -5,7 +5,6 @@ using UnityEngine;
 public class CubeMoving : MonoBehaviour
 {
     [SerializeField] private float _speed;
-
    
     private void Update()
     {
